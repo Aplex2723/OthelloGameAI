@@ -1,0 +1,13 @@
+D:\Tareas\POO\OthelloGame\bin\Debug\OthelloGame.exe.config
+D:\Tareas\POO\OthelloGame\bin\Debug\OthelloGame.exe
+D:\Tareas\POO\OthelloGame\bin\Debug\OthelloGame.pdb
+D:\Tareas\POO\OthelloGame\obj\Debug\OthelloGame.csproj.AssemblyReference.cache
+D:\Tareas\POO\OthelloGame\obj\Debug\OthelloGame.csproj.SuggestedBindingRedirects.cache
+D:\Tareas\POO\OthelloGame\obj\Debug\OthelloGame.csproj.CoreCompileInputs.cache
+D:\Tareas\POO\OthelloGame\obj\Debug\OthelloGame.exe
+D:\Tareas\POO\OthelloGame\obj\Debug\OthelloGame.pdb
+D:\Cosas\Games\OthelloGame\obj\Debug\OthelloGame.csproj.AssemblyReference.cache
+D:\Cosas\Games\OthelloGame\obj\Debug\OthelloGame.csproj.SuggestedBindingRedirects.cache
+D:\Cosas\Games\OthelloGame\obj\Debug\OthelloGame.csproj.CoreCompileInputs.cache
+D:\Cosas\Games\OthelloGame\obj\Debug\OthelloGame.exe
+D:\Cosas\Games\OthelloGame\obj\Debug\OthelloGame.pdb
